@@ -11,10 +11,10 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.os.Handler;
-import android.support.v4.app.ActivityCompat;
-import android.support.v4.app.DialogFragment;
-import android.support.v4.content.ContextCompat;
-import android.support.v7.app.AppCompatActivity;
+import androidx.core.app.ActivityCompat;
+import androidx.fragment.app.DialogFragment;
+import androidx.core.content.ContextCompat;
+import androidx.appcompat.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -137,7 +137,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
     /*
 	 * (non-Javadoc)
 	 * 
-	 * @see android.support.v4.app.FragmentActivity#onStart()
+	 * @see androidx.fragment.app.FragmentActivity#onStart()
 	 */
     @Override
     protected void onStart() {
@@ -151,7 +151,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
     /*
 	 * (non-Javadoc)
 	 * 
-	 * @see android.support.v4.app.FragmentActivity#onResume()
+	 * @see androidx.fragment.app.FragmentActivity#onResume()
 	 */
     @Override
     protected void onResume() {
@@ -193,7 +193,7 @@ public class MainActivity extends AppCompatActivity implements LocationListener,
     /*
 	 * (non-Javadoc)
 	 * 
-	 * @see android.support.v7.app.AppCompatActivity#onStop()
+	 * @see androidx.appcompat.app.AppCompatActivity#onStop()
 	 */
     @Override
     protected void onStop() {

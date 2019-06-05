@@ -38,13 +38,9 @@
                 android:value="splitActionBarWhenNarrow" />
         </activity>
 
-        <!--
-        Prod Key: AIzaSyAZpYwuIIDcOqyJhgw1lwhR2ZGi2pxIODQ
-        Debug Key: AIzaSyDiMk1Jx0rHVNXr-NhB06IZDlsQsVQzc_I
-        -->
         <meta-data
             android:name="com.google.android.maps.v2.API_KEY"
-            android:value="AIzaSyDiMk1Jx0rHVNXr-NhB06IZDlsQsVQzc_I" />
+            android:value="DropYourKey" />
 
         <activity
             android:name="com.android2ee.formation.librairies.google.map.LauncherActivity"

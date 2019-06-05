@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+
+//    compileSdkVersion rootProject.ext.compileSdkVersion
+//    buildToolsVersion rootProject.ext.buildToolsVersion
+    compileSdkVersion 23
+    buildToolsVersion rootProject.ext.buildToolsVersion
+    defaultConfig {
+        applicationId "com.android2ee.formation.librairies.google.map"
+        minSdkVersion rootProject.ext.minSdkVersion
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    /**
+     * You should not do that
+     */
+    lintOptions {
+        abortOnError false
+    }
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['aidl']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            assets.srcDirs = ['assets']
+        }
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testCompile 'junit:junit:4.12'
+    implementation 'androidx.appcompat:appcompat:23.1.1'
+//    implementation 'com.google.android.gms:play-services:8.4.0'
+    implementation 'com.google.android.gms:play-services-maps:8.4.0'
+    implementation 'com.google.android.gms:play-services:8.4.0'
+}

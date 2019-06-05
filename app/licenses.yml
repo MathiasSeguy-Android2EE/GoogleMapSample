@@ -1,0 +1,756 @@
+- artifact: com.google.android.gms:play-services-ads-lite:+
+  name: play-services-ads-lite
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.vectordrawable:vectordrawable:+
+  name: Android Support VectorDrawable
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.firebase:firebase-dynamic-links-license:+
+  name: firebase-dynamic-links-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-crash:+
+  name: firebase-crash
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.swiperefreshlayout:swiperefreshlayout:+
+  name: Android Support Library Custom View
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.firebase:firebase-storage-common-license:+
+  name: firebase-storage-common-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-cast:+
+  name: play-services-cast
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-location:+
+  name: play-services-location
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.palette:palette:+
+  name: Android Support Palette v7
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.versionedparcelable:versionedparcelable:+
+  name: VersionedParcelable and friends
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-plus-license:+
+  name: play-services-plus-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.collection:collection:+
+  name: Android Support Library collections
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.crashlytics.sdk.android:crashlytics:+
+  name: Android SDK Crashlytics
+  copyrightHolder: crashlytics, Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+- artifact: com.google.firebase:firebase-crash-license:+
+  name: firebase-crash-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.lifecycle:lifecycle-livedata:+
+  name: Android Lifecycle LiveData
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: com.google.android.gms:play-services-vision-common:+
+  name: play-services-vision-common
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-database-connection:+
+  name: firebase-database-connection
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.media2:media2:+
+  name: AndroidX media2 library
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-places:+
+  name: play-services-places
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-appindexing:+
+  name: firebase-appindexing
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-gass:+
+  name: play-services-gass
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-gass-license:+
+  name: play-services-gass-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-database-license:+
+  name: firebase-database-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.legacy:legacy-support-v4:+
+  name: Android Support Library v4
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-wallet-license:+
+  name: play-services-wallet-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tagmanager-license:+
+  name: play-services-tagmanager-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-analytics-impl:+
+  name: firebase-analytics-impl
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-iid-license:+
+  name: firebase-iid-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-drive:+
+  name: play-services-drive
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-auth:+
+  name: play-services-auth
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-auth:+
+  name: firebase-auth
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-panorama-license:+
+  name: play-services-panorama-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.print:print:+
+  name: Android Support Library Print
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.interpolator:interpolator:+
+  name: Android Support Library Interpolators
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.viewpager:viewpager:+
+  name: Android Support Library View Pager
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-fido:+
+  name: play-services-fido
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-appinvite:+
+  name: play-services-appinvite
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-dynamic-links:+
+  name: firebase-dynamic-links
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-basement:+
+  name: play-services-basement
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-instantapps-license:+
+  name: play-services-instantapps-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.lifecycle:lifecycle-livedata-core:+
+  name: Android Lifecycle LiveData Core
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: androidx.media:media:+
+  name: Android Support Library media compat
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-auth-api-phone-license:+
+  name: play-services-auth-api-phone-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-fitness:+
+  name: play-services-fitness
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-instantapps:+
+  name: play-services-instantapps
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tagmanager-v4-impl:+
+  name: play-services-tagmanager-v4-impl
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.cursoradapter:cursoradapter:+
+  name: Android Support Library Cursor Adapter
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: org.jetbrains:annotations:+
+  name: IntelliJ IDEA Annotations
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://www.jetbrains.org
+- artifact: com.google.android.gms:play-services-identity:+
+  name: play-services-identity
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.lifecycle:lifecycle-common:+
+  name: Android Lifecycle-Common
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: androidx.coordinatorlayout:coordinatorlayout:+
+  name: Android Support Library Coordinator Layout
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-wallet:+
+  name: play-services-wallet
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-iid-license:+
+  name: play-services-iid-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.crashlytics.sdk.android:beta:+
+  name: Android SDK for Beta
+  copyrightHolder: crashlytics, Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+- artifact: androidx.legacy:legacy-support-core-ui:+
+  name: Android Support Library core UI
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.lifecycle:lifecycle-runtime:+
+  name: Android Lifecycle Runtime
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: com.google.android.gms:play-services-gcm:+
+  name: play-services-gcm
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-vision-common-license:+
+  name: play-services-vision-common-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-games:+
+  name: play-services-games
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-ads-lite-license:+
+  name: play-services-ads-lite-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-location-license:+
+  name: play-services-location-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.loader:loader:+
+  name: Android Support Library loader
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-auth-base-license:+
+  name: play-services-auth-base-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-messaging:+
+  name: firebase-messaging
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.vectordrawable:vectordrawable-animated:+
+  name: Android Support AnimatedVectorDrawable
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.slidingpanelayout:slidingpanelayout:+
+  name: Android Support Library Sliding Pane Layout
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-fitness-license:+
+  name: play-services-fitness-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-wearable:+
+  name: play-services-wearable
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-config:+
+  name: firebase-config
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-nearby-license:+
+  name: play-services-nearby-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-vision-license:+
+  name: play-services-vision-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.customview:customview:+
+  name: Android Support Library Custom View
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.crashlytics.sdk.android:answers:+
+  name: Android SDK Answers
+  copyrightHolder: crashlytics, Inc.
+  license: Answers Terms of Service
+  licenseUrl: https://answers.io/terms
+- artifact: com.google.android.gms:play-services-auth-api-phone:+
+  name: play-services-auth-api-phone
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services:+
+  name: play-services
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-analytics-license:+
+  name: firebase-analytics-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-ads-license:+
+  name: play-services-ads-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tagmanager-v4-impl-license:+
+  name: play-services-tagmanager-v4-impl-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.lifecycle:lifecycle-viewmodel:+
+  name: Android Lifecycle ViewModel
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: com.google.android.gms:play-services-analytics:+
+  name: play-services-analytics
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tagmanager-api:+
+  name: play-services-tagmanager-api
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.localbroadcastmanager:localbroadcastmanager:+
+  name: Android Support Library Local Broadcast Manager
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.firebase:firebase-storage:+
+  name: firebase-storage
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: io.fabric.sdk.android:fabric:+
+  name: Android SDK Fabric
+  copyrightHolder: fabric, Inc.
+  license: Fabric Software and Services Agreement
+  licenseUrl: https://fabric.io/terms
+- artifact: com.google.android.gms:play-services-awareness:+
+  name: play-services-awareness
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-auth-base:+
+  name: play-services-auth-base
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-fido-license:+
+  name: play-services-fido-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-games-license:+
+  name: play-services-games-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.legacy:legacy-support-core-utils:+
+  name: Android Support Library core utils
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-wearable-license:+
+  name: play-services-wearable-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-ads:+
+  name: play-services-ads
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-iid:+
+  name: firebase-iid
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.drawerlayout:drawerlayout:+
+  name: Android Support Library Drawer Layout
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.core:core:+
+  name: Android Support Library compat
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.firebase:firebase-storage-license:+
+  name: firebase-storage-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-safetynet-license:+
+  name: play-services-safetynet-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-plus:+
+  name: play-services-plus
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-gcm-license:+
+  name: play-services-gcm-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-database:+
+  name: firebase-database
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.crashlytics.sdk.android:crashlytics-core:+
+  name: Android SDK Crashlytics Core
+  copyrightHolder: crashlytics, Inc.
+  license: Crashlytics Terms of Service
+  licenseUrl: http://try.crashlytics.com/terms/terms-of-service.pdf
+- artifact: androidx.annotation:annotation:+
+  name: Android Support Library Annotations
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-maps:+
+  name: play-services-maps
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-messaging-license:+
+  name: firebase-messaging-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-database-connection-license:+
+  name: firebase-database-connection-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tagmanager:+
+  name: play-services-tagmanager
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-cast-license:+
+  name: play-services-cast-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-appindexing-license:+
+  name: firebase-appindexing-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.documentfile:documentfile:+
+  name: Android Support Library Document File
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.mediarouter:mediarouter:+
+  name: Android MediaRouter Support Library
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.android.gms:play-services-iid:+
+  name: play-services-iid
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: org.jetbrains.kotlin:kotlin-stdlib:+
+  name: org.jetbrains.kotlin:kotlin-stdlib
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+- artifact: androidx.arch.core:core-runtime:+
+  name: Android Arch-Runtime
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: com.google.android.gms:play-services-awareness-license:+
+  name: play-services-awareness-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-analytics:+
+  name: firebase-analytics
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tagmanager-api-license:+
+  name: play-services-tagmanager-api-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-config-license:+
+  name: firebase-config-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-appinvite-license:+
+  name: play-services-appinvite-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-drive-license:+
+  name: play-services-drive-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.arch.core:core-common:+
+  name: Android Arch-Common
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
+- artifact: com.google.firebase:firebase-storage-common:+
+  name: firebase-storage-common
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-safetynet:+
+  name: play-services-safetynet
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-vision:+
+  name: play-services-vision
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-analytics-impl-license:+
+  name: firebase-analytics-impl-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-analytics-license:+
+  name: play-services-analytics-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-nearby:+
+  name: play-services-nearby
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-cast-framework-license:+
+  name: play-services-cast-framework-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.firebase:firebase-common-license:+
+  name: firebase-common-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-places-license:+
+  name: play-services-places-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: org.jetbrains.kotlin:kotlin-stdlib-common:+
+  name: org.jetbrains.kotlin:kotlin-stdlib-common
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+- artifact: com.google.firebase:firebase-auth-license:+
+  name: firebase-auth-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.recyclerview:recyclerview:+
+  name: Android Support RecyclerView v7
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: androidx.asynclayoutinflater:asynclayoutinflater:+
+  name: Android Support Library Async Layout Inflater
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+- artifact: com.google.firebase:firebase-common:+
+  name: firebase-common
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-tasks:+
+  name: play-services-tasks
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-panorama:+
+  name: play-services-panorama
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-analytics-impl:+
+  name: play-services-analytics-impl
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-analytics-impl-license:+
+  name: play-services-analytics-impl-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-cast-framework:+
+  name: play-services-cast-framework
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: com.google.android.gms:play-services-identity-license:+
+  name: play-services-identity-license
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: org.jetbrains.kotlin:kotlin-android-extensions-runtime:+
+  name: org.jetbrains.kotlin:kotlin-android-extensions-runtime
+  copyrightHolder: jetbrains, Inc.
+  license: The Apache License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://kotlinlang.org/
+- artifact: com.google.android.gms:play-services-base:+
+  name: play-services-base
+  copyrightHolder: Google, Inc.
+  license: Android Software Development Kit License
+  licenseUrl: https://developer.android.com/studio/terms.html
+- artifact: androidx.fragment:fragment:+
+  name: Android Support Library fragment
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: http://developer.android.com/tools/extras/support-library.html
+#  AndroidX
+- artifact: androidx.appcompat:appcompat:+
+  name: Android AppCompat Library v7
+  copyrightHolder: Google, Inc.
+  license: The Apache Software License, Version 2.0
+  licenseUrl: http://www.apache.org/licenses/LICENSE-2.0.txt
+  url: https://developer.android.com/topic/libraries/architecture/index.html
