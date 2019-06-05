@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GoogleMapSample</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- menu -->
+    <string name="menu_center_map">CenterMap</string>
+    <string name="menu_google_attribution">Google Licencing</string>
+    <string name="menu_legal_mention">Legal Mention</string>
+
+    <!-- Google Attribution Dialog -->
+    <string name="dialog_google_att_btn">Read.</string>
+    <string name="dialog_google_att_title">Google Map Attribution.</string>
+    <string name="title_activity_launcher">GMap Tuto</string>
+
+</resources>
